@@ -1,0 +1,20 @@
+.container {
+  color: white;
+  bacground-color: blue;
+  text-align: center; }
+
+body {
+  background-color: #45558b; }
+
+.btn {
+  width: 500px;
+  background-color: #45558b;
+  color: white; }
+
+.row {
+  text-align: center; }
+
+a {
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
